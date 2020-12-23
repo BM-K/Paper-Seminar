@@ -1,2 +1,2 @@
 # Paper-Seminar
-Paper Seminar in KHU NLP 
+MY-Paper Seminar in KHU NLP LAB
