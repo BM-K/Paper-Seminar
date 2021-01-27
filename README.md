@@ -1,17 +1,21 @@
 # Paper-Seminar
 
 - Continual Learning
-  - Overcoming catastrophic forgetting in neural networks
+  - **Overcoming catastrophic forgetting in neural networks**
     - https://arxiv.org/pdf/1612.00796.pdf
-  - Progressive Neural Networks
+  - **Progressive Neural Networks**
     - https://arxiv.org/pdf/1606.04671.pdf
-  - Continual Learning with Deep Generative Replay
+  - **Continual Learning with Deep Generative Replay**
     - https://arxiv.org/pdf/1705.08690.pdf
-- Dense Passage Retrieval for Open-Domain Question Answering
+  - **Continual Learning for Natural Language Generation in Task-oriented Dialog Systems**
+    - https://arxiv.org/pdf/2010.00910.pdf
+- **Dense Passage Retrieval for Open-Domain Question Answering**
   - https://arxiv.org/pdf/2004.04906.pdf
-- Understanding the difficulty of training transformers
+- **Understanding the difficulty of training transformers**
   - https://arxiv.org/pdf/2004.08249.pdf
-- ELECTRA pre-training text encoders as discriminators rather than generators
+- **ELECTRA pre-training text encoders as discriminators rather than generators**
   - https://arxiv.org/pdf/2003.10555.pdf
-- Do NLP Models Know Numbers? Probing Numeracy in Embeddings
+- **Do NLP Models Know Numbers? Probing Numeracy in Embeddings**
   - https://arxiv.org/pdf/1909.07940.pdf
+- **When BERT Plays the Lottery, All Tickets Are Winning**
+  - https://www.aclweb.org/anthology/2020.emnlp-main.259.pdf
