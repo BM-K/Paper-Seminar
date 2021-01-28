@@ -17,5 +17,3 @@
   - https://arxiv.org/pdf/2003.10555.pdf
 - **Do NLP Models Know Numbers? Probing Numeracy in Embeddings**
   - https://arxiv.org/pdf/1909.07940.pdf
-- **When BERT Plays the Lottery, All Tickets Are Winning**
-  - https://www.aclweb.org/anthology/2020.emnlp-main.259.pdf
