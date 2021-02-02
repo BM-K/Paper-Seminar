@@ -19,3 +19,5 @@
   - https://arxiv.org/pdf/1909.07940.pdf
 - **Learning a Simple and Effective Model for Multi-turn Response Generation with Auxiliary Tasks**
   - https://arxiv.org/pdf/2004.01972.pdf
+- **A Generative Model for Joint Natural Language Understanding and Generation**
+  - https://arxiv.org/pdf/2006.07499.pdf
