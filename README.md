@@ -9,6 +9,11 @@
     - https://arxiv.org/pdf/1705.08690.pdf
   - **Continual Learning for Natural Language Generation in Task-oriented Dialog Systems**
     - https://arxiv.org/pdf/2010.00910.pdf
+- Knoweldge Distillation
+  - **Distilling the Knowledge in a Neural Network**
+    - https://arxiv.org/pdf/1503.02531.pdf
+  - **Improved Knowledge Distillation via Teacher Assistant**
+    - https://arxiv.org/pdf/1902.03393.pdf
 - **Dense Passage Retrieval for Open-Domain Question Answering**
   - https://arxiv.org/pdf/2004.04906.pdf
 - **Understanding the difficulty of training transformers**
@@ -21,3 +26,5 @@
   - https://arxiv.org/pdf/2004.01972.pdf
 - **A Generative Model for Joint Natural Language Understanding and Generation**
   - https://arxiv.org/pdf/2006.07499.pdf
+- **Learning Effective and Interpretable Semantic Models using Non-Negative Sparse Embedding**
+  - https://www.aclweb.org/anthology/C12-1118.pdf
