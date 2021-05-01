@@ -14,6 +14,8 @@
     - https://arxiv.org/pdf/1503.02531.pdf
   - **Improved Knowledge Distillation via Teacher Assistant**
     - https://arxiv.org/pdf/1902.03393.pdf
+  - **Knowledge Distillation Meets Self-Supervistion**
+    - https://arxiv.org/pdf/2006.07114.pdf
 - **Dense Passage Retrieval for Open-Domain Question Answering**
   - https://arxiv.org/pdf/2004.04906.pdf
 - **Understanding the difficulty of training transformers**
