@@ -16,6 +16,11 @@
     - https://arxiv.org/pdf/1902.03393.pdf
   - **Knowledge Distillation Meets Self-Supervistion**
     - https://arxiv.org/pdf/2006.07114.pdf
+- Video Question Answering
+  - **DramaQA: Character-Centered Video Story Understanding with Hierarchical QA**
+    - https://arxiv.org/pdf/2005.03356.pdf
+  - **Modality Shifting Attention Network for Multi-modal Video Question Answering**
+    - https://arxiv.org/pdf/2007.02036.pdf
 - **Dense Passage Retrieval for Open-Domain Question Answering**
   - https://arxiv.org/pdf/2004.04906.pdf
 - **Understanding the difficulty of training transformers**
