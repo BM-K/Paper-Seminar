@@ -22,21 +22,23 @@
   - **Modality Shifting Attention Network for Multi-modal Video Question Answering**
     - https://arxiv.org/pdf/2007.02036.pdf
 - *eXpalinable Artificial Intelligence* (XAI)
-  - **DramaQA: Character-Centered Video Story Understanding with Hierarchical QA**
-    - https://arxiv.org/pdf/2005.03356.pdf
-  - **Modality Shifting Attention Network for Multi-modal Video Question Answering**
-    - https://arxiv.org/pdf/2007.02036.pdf
-- **Dense Passage Retrieval for Open-Domain Question Answering**
-  - https://arxiv.org/pdf/2004.04906.pdf
-- **Understanding the difficulty of training transformers**
-  - https://arxiv.org/pdf/2004.08249.pdf
-- **ELECTRA pre-training text encoders as discriminators rather than generators**
-  - https://arxiv.org/pdf/2003.10555.pdf
-- **Do NLP Models Know Numbers? Probing Numeracy in Embeddings**
-  - https://arxiv.org/pdf/1909.07940.pdf
-- **Learning a Simple and Effective Model for Multi-turn Response Generation with Auxiliary Tasks**
-  - https://arxiv.org/pdf/2004.01972.pdf
-- **A Generative Model for Joint Natural Language Understanding and Generation**
-  - https://arxiv.org/pdf/2006.07499.pdf
-- **Learning Effective and Interpretable Semantic Models using Non-Negative Sparse Embedding**
-  - https://www.aclweb.org/anthology/C12-1118.pdf
+  - **Understanding the difficulty of training transformers**
+    - https://arxiv.org/pdf/2004.08249.pdf
+  - **Do NLP Models Know Numbers? Probing Numeracy in Embeddings**
+    - https://arxiv.org/pdf/1909.07940.pdf
+- *Information Retrieval* (IR)
+  - **Dense Passage Retrieval for Open-Domain Question Answering**
+    - https://arxiv.org/pdf/2004.04906.pdf
+  - **Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks**
+    - https://arxiv.org/pdf/1908.10084.pdf
+- *Natural Language Understanding* (NLU)
+  - **ELECTRA pre-training text encoders as discriminators rather than generators**
+    - https://arxiv.org/pdf/2003.10555.pdf
+  - **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**
+    - https://arxiv.org/pdf/1810.04805.pdf
+- *Response Generation* (RG)
+  - **Learning a Simple and Effective Model for Multi-turn Response Generation with Auxiliary Tasks**
+    - https://arxiv.org/pdf/2004.01972.pdf
+- *ETC*
+  - **Learning Effective and Interpretable Semantic Models using Non-Negative Sparse Embedding**
+    - https://www.aclweb.org/anthology/C12-1118.pdf
