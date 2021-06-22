@@ -1,5 +1,16 @@
 # Paper-Seminar
 
+- *Knoweldge Distillation* (KD)
+  - **Distilling the Knowledge in a Neural Network**
+    - https://arxiv.org/pdf/1503.02531.pdf
+  - **Improved Knowledge Distillation via Teacher Assistant**
+    - https://arxiv.org/pdf/1902.03393.pdf
+  - **Knowledge Distillation Meets Self-Supervistion**
+    - https://arxiv.org/pdf/2006.07114.pdf
+  - **DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter**
+    - https://arxiv.org/pdf/1910.01108.pdf
+  - **TinyBERT: Distilling BERT for Natural Language Understanding**
+    - https://arxiv.org/pdf/1909.10351.pdf
 - *Continual Learning* (CL)
   - **Overcoming catastrophic forgetting in neural networks**
     - https://arxiv.org/pdf/1612.00796.pdf
@@ -9,13 +20,6 @@
     - https://arxiv.org/pdf/1705.08690.pdf
   - **Continual Learning for Natural Language Generation in Task-oriented Dialog Systems**
     - https://arxiv.org/pdf/2010.00910.pdf
-- *Knoweldge Distillation* (KD)
-  - **Distilling the Knowledge in a Neural Network**
-    - https://arxiv.org/pdf/1503.02531.pdf
-  - **Improved Knowledge Distillation via Teacher Assistant**
-    - https://arxiv.org/pdf/1902.03393.pdf
-  - **Knowledge Distillation Meets Self-Supervistion**
-    - https://arxiv.org/pdf/2006.07114.pdf
 - *Video Question Answering* (VQA)
   - **DramaQA: Character-Centered Video Story Understanding with Hierarchical QA**
     - https://arxiv.org/pdf/2005.03356.pdf
