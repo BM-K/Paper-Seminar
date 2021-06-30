@@ -35,6 +35,8 @@
     - https://arxiv.org/pdf/2004.04906.pdf
   - **Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks**
     - https://arxiv.org/pdf/1908.10084.pdf
+  - **ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT**
+    - https://arxiv.org/pdf/2004.12832.pdf
 - *Natural Language Understanding* (NLU)
   - **ELECTRA pre-training text encoders as discriminators rather than generators**
     - https://arxiv.org/pdf/2003.10555.pdf
