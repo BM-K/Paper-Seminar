@@ -33,8 +33,6 @@
 - *Information Retrieval* (IR)
   - **Dense Passage Retrieval for Open-Domain Question Answering**
     - https://arxiv.org/pdf/2004.04906.pdf
-  - **Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks**
-    - https://arxiv.org/pdf/1908.10084.pdf
   - **ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT**
     - https://arxiv.org/pdf/2004.12832.pdf
 - *Natural Language Understanding* (NLU)
@@ -45,6 +43,8 @@
 - *Response Generation* (RG)
   - **Learning a Simple and Effective Model for Multi-turn Response Generation with Auxiliary Tasks**
     - https://arxiv.org/pdf/2004.01972.pdf
-- *ETC*
+- *Embedding*
+  - **Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks**
+    - https://arxiv.org/pdf/1908.10084.pdf
   - **Learning Effective and Interpretable Semantic Models using Non-Negative Sparse Embedding**
     - https://www.aclweb.org/anthology/C12-1118.pdf
