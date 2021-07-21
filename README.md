@@ -40,6 +40,8 @@
     - https://arxiv.org/pdf/2003.10555.pdf
   - **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**
     - https://arxiv.org/pdf/1810.04805.pdf
+  - **Unifying Vision-and-Language Tasks via Text Generation**
+    - https://arxiv.org/pdf/2102.02779.pdf
 - *Response Generation* (RG)
   - **Learning a Simple and Effective Model for Multi-turn Response Generation with Auxiliary Tasks**
     - https://arxiv.org/pdf/2004.01972.pdf
