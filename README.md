@@ -11,6 +11,8 @@
     - https://arxiv.org/pdf/1910.01108.pdf
   - **TinyBERT: Distilling BERT for Natural Language Understanding**
     - https://arxiv.org/pdf/1909.10351.pdf
+  - **MINILM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers**
+    - https://arxiv.org/pdf/2002.10957.pdf
 - *Continual Learning* (CL)
   - **Overcoming catastrophic forgetting in neural networks**
     - https://arxiv.org/pdf/1612.00796.pdf
