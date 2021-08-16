@@ -48,6 +48,10 @@
   - **Learning a Simple and Effective Model for Multi-turn Response Generation with Auxiliary Tasks**
     - https://arxiv.org/pdf/2004.01972.pdf
 - *Embedding*
+  - **SimCSE: Simple Contrastive Learning of Sentence Embeddings**
+    - https://arxiv.org/pdf/2104.08821.pdf  
+  - **SBERT-WK: A Sentence Embedding Method by Dissecting BERT-based Word Models** 
+    - https://arxiv.org/pdf/2002.06652.pdf
   - **Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks**
     - https://arxiv.org/pdf/1908.10084.pdf
   - **Learning Effective and Interpretable Semantic Models using Non-Negative Sparse Embedding**
