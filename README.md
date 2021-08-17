@@ -13,6 +13,8 @@
     - https://arxiv.org/pdf/1909.10351.pdf
   - **MINILM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers**
     - https://arxiv.org/pdf/2002.10957.pdf
+  - **ERNIE-Tiny : A Progressive Distillation Framework for Pretrained Transformer Compression**
+    - https://arxiv.org/pdf/2106.02241.pdf
 - *Embedding*
   - **SimCSE: Simple Contrastive Learning of Sentence Embeddings**
     - https://arxiv.org/pdf/2104.08821.pdf  
