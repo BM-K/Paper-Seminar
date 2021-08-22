@@ -1,6 +1,6 @@
 # Paper-Seminar
 
-- ## *Knoweldge Distillation* (KD)
+- ## *Knoweldge Distillation*
   - **Distilling the Knowledge in a Neural Network**
     - https://arxiv.org/pdf/1503.02531.pdf
   - **Improved Knowledge Distillation via Teacher Assistant**
@@ -26,7 +26,7 @@
   - **Learning Effective and Interpretable Semantic Models using Non-Negative Sparse Embedding**
     - https://www.aclweb.org/anthology/C12-1118.pdf
 
-- ## *Continual Learning* (CL)
+- ## *Continual Learning*
   - **Overcoming catastrophic forgetting in neural networks**
     - https://arxiv.org/pdf/1612.00796.pdf
   - **Progressive Neural Networks**
@@ -36,25 +36,25 @@
   - **Continual Learning for Natural Language Generation in Task-oriented Dialog Systems**
     - https://arxiv.org/pdf/2010.00910.pdf
 
-- ## *Video Question Answering* (VQA)
+- ## *Video Question Answering*
   - **DramaQA: Character-Centered Video Story Understanding with Hierarchical QA**
     - https://arxiv.org/pdf/2005.03356.pdf
   - **Modality Shifting Attention Network for Multi-modal Video Question Answering**
     - https://arxiv.org/pdf/2007.02036.pdf
 
-- ## *eXpalinable Artificial Intelligence* (XAI)
+- ## *eXpalinable Artificial Intelligence*
   - **Understanding the difficulty of training transformers**
     - https://arxiv.org/pdf/2004.08249.pdf
   - **Do NLP Models Know Numbers? Probing Numeracy in Embeddings**
     - https://arxiv.org/pdf/1909.07940.pdf
 
-- ## *Information Retrieval* (IR)
+- ## *Information Retrieval*
   - **Dense Passage Retrieval for Open-Domain Question Answering**
     - https://arxiv.org/pdf/2004.04906.pdf
   - **ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT**
     - https://arxiv.org/pdf/2004.12832.pdf
 
-- ## *Natural Language Understanding* (NLU)
+- ## *Natural Language Understanding*
   - **ELECTRA pre-training text encoders as discriminators rather than generators**
     - https://arxiv.org/pdf/2003.10555.pdf
   - **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**
@@ -62,6 +62,6 @@
   - **Unifying Vision-and-Language Tasks via Text Generation**
     - https://arxiv.org/pdf/2102.02779.pdf
 
-- ## *Response Generation* (RG)
+- ## *Response Generation*
   - **Learning a Simple and Effective Model for Multi-turn Response Generation with Auxiliary Tasks**
     - https://arxiv.org/pdf/2004.01972.pdf
