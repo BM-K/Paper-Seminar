@@ -16,7 +16,7 @@
   - **ERNIE-Tiny : A Progressive Distillation Framework for Pretrained Transformer Compression**
     - https://arxiv.org/pdf/2106.02241.pdf
 
-- ## *Embedding*
+- ## *Sentence Embedding*
   - **SimCSE: Simple Contrastive Learning of Sentence Embeddings**
     - https://arxiv.org/pdf/2104.08821.pdf  
   - **SBERT-WK: A Sentence Embedding Method by Dissecting BERT-based Word Models** 
