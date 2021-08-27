@@ -63,5 +63,7 @@
     - https://arxiv.org/pdf/2102.02779.pdf
 
 - ## *Response Generation*
+  - **Learning to Copy Coherent Knowledge for Response Generation**
+    - https://ojs.aaai.org/index.php/AAAI/article/view/17486
   - **Learning a Simple and Effective Model for Multi-turn Response Generation with Auxiliary Tasks**
     - https://arxiv.org/pdf/2004.01972.pdf
