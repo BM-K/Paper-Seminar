@@ -67,3 +67,5 @@
     - https://ojs.aaai.org/index.php/AAAI/article/view/17486
   - **Learning a Simple and Effective Model for Multi-turn Response Generation with Auxiliary Tasks**
     - https://arxiv.org/pdf/2004.01972.pdf
+  - **Sequence to Backward and Forward Sequences: A Content-Introducing Approach to Generative Short-Text Conversation**
+    - https://aclanthology.org/C16-1316.pdf 
