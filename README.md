@@ -65,6 +65,8 @@
 - ## *Response Generation*
   - **Learning to Copy Coherent Knowledge for Response Generation**
     - https://ojs.aaai.org/index.php/AAAI/article/view/17486
+  - **Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation**
+    - https://aclanthology.org/2020.acl-main.166.pdf  
   - **Learning a Simple and Effective Model for Multi-turn Response Generation with Auxiliary Tasks**
     - https://arxiv.org/pdf/2004.01972.pdf
   - **Sequence to Backward and Forward Sequences: A Content-Introducing Approach to Generative Short-Text Conversation**
