@@ -41,6 +41,8 @@
     - https://arxiv.org/pdf/2005.03356.pdf
   - **Modality Shifting Attention Network for Multi-modal Video Question Answering**
     - https://arxiv.org/pdf/2007.02036.pdf
+  - **MMFT-BERT: Multimodal Fusion Transformer with BERT Encodings for Visual Question Answering**
+    - https://arxiv.org/pdf/2010.14095.pdf
 
 - ## *eXpalinable Artificial Intelligence*
   - **Understanding the difficulty of training transformers**
