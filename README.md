@@ -65,6 +65,8 @@
     - https://arxiv.org/pdf/2102.02779.pdf
 
 - ## *Response Generation*
+  - **Sequential Latent Knowledge Selection for Knowledge-Grounded Dialogue**
+    - https://arxiv.org/pdf/2002.07510.pdf 
   - **Learning to Copy Coherent Knowledge for Response Generation**
     - https://ojs.aaai.org/index.php/AAAI/article/view/17486
   - **Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation**
