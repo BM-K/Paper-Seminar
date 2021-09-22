@@ -26,16 +26,6 @@
   - **Learning Effective and Interpretable Semantic Models using Non-Negative Sparse Embedding**
     - https://www.aclweb.org/anthology/C12-1118.pdf
 
-- ## *Continual Learning*
-  - **Overcoming catastrophic forgetting in neural networks**
-    - https://arxiv.org/pdf/1612.00796.pdf
-  - **Progressive Neural Networks**
-    - https://arxiv.org/pdf/1606.04671.pdf
-  - **Continual Learning with Deep Generative Replay**
-    - https://arxiv.org/pdf/1705.08690.pdf
-  - **Continual Learning for Natural Language Generation in Task-oriented Dialog Systems**
-    - https://arxiv.org/pdf/2010.00910.pdf
-
 - ## *Video Question Answering*
   - **DramaQA: Character-Centered Video Story Understanding with Hierarchical QA**
     - https://arxiv.org/pdf/2005.03356.pdf
@@ -74,4 +64,14 @@
   - **Learning a Simple and Effective Model for Multi-turn Response Generation with Auxiliary Tasks**
     - https://arxiv.org/pdf/2004.01972.pdf
   - **Sequence to Backward and Forward Sequences: A Content-Introducing Approach to Generative Short-Text Conversation**
-    - https://aclanthology.org/C16-1316.pdf 
+    - https://aclanthology.org/C16-1316.pdf
+
+- ## *Continual Learning*
+  - **Overcoming catastrophic forgetting in neural networks**
+    - https://arxiv.org/pdf/1612.00796.pdf
+  - **Progressive Neural Networks**
+    - https://arxiv.org/pdf/1606.04671.pdf
+  - **Continual Learning with Deep Generative Replay**
+    - https://arxiv.org/pdf/1705.08690.pdf
+  - **Continual Learning for Natural Language Generation in Task-oriented Dialog Systems**
+    - https://arxiv.org/pdf/2010.00910.pdf
