@@ -17,6 +17,8 @@
     - https://arxiv.org/pdf/2106.02241.pdf
 
 - ## *Sentence Embedding*
+  - **Dual-View Distilled BERT for Sentence Embedding**
+    - https://arxiv.org/pdf/2104.08675.pdf 
   - **SimCSE: Simple Contrastive Learning of Sentence Embeddings**
     - https://arxiv.org/pdf/2104.08821.pdf  
   - **SBERT-WK: A Sentence Embedding Method by Dissecting BERT-based Word Models** 
