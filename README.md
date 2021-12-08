@@ -57,6 +57,8 @@
     - https://arxiv.org/pdf/2102.02779.pdf
 
 - ## *Response Generation*
+  - **Retrieve and Refine: Improved Sequence Generation Models For Dialogue**
+    - https://arxiv.org/pdf/1808.04776.pdf
   - **Sequential Latent Knowledge Selection for Knowledge-Grounded Dialogue**
     - https://arxiv.org/pdf/2002.07510.pdf 
   - **Learning to Copy Coherent Knowledge for Response Generation**
