@@ -49,6 +49,8 @@
     - https://arxiv.org/pdf/2004.12832.pdf
 
 - ## *Natural Language Understanding*
+  - **Don't Stop Pretraining: Adapt Language Models to Domains and Tasks**
+      - https://arxiv.org/abs/2004.10964 
   - **ELECTRA pre-training text encoders as discriminators rather than generators**
     - https://arxiv.org/pdf/2003.10555.pdf
   - **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**
