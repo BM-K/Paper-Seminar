@@ -1,5 +1,33 @@
 # Paper-Seminar
 
+- ## *Response Generation*
+  - **Internet-Augmented Dialogue Generation**
+    - https://arxiv.org/pdf/2107.07566.pdf
+  - **Retrieve and Refine: Improved Sequence Generation Models For Dialogue**
+    - https://arxiv.org/pdf/1808.04776.pdf
+  - **Sequential Latent Knowledge Selection for Knowledge-Grounded Dialogue**
+    - https://arxiv.org/pdf/2002.07510.pdf 
+  - **Learning to Copy Coherent Knowledge for Response Generation**
+    - https://ojs.aaai.org/index.php/AAAI/article/view/17486
+  - **Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation**
+    - https://aclanthology.org/2020.acl-main.166.pdf  
+  - **Learning a Simple and Effective Model for Multi-turn Response Generation with Auxiliary Tasks**
+    - https://arxiv.org/pdf/2004.01972.pdf
+  - **Sequence to Backward and Forward Sequences: A Content-Introducing Approach to Generative Short-Text Conversation**
+    - https://aclanthology.org/C16-1316.pdf
+ 
+- ## *Sentence Embedding*
+  - **Dual-View Distilled BERT for Sentence Embedding**
+    - https://arxiv.org/pdf/2104.08675.pdf 
+  - **SimCSE: Simple Contrastive Learning of Sentence Embeddings**
+    - https://arxiv.org/pdf/2104.08821.pdf  
+  - **SBERT-WK: A Sentence Embedding Method by Dissecting BERT-based Word Models** 
+    - https://arxiv.org/pdf/2002.06652.pdf
+  - **Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks**
+    - https://arxiv.org/pdf/1908.10084.pdf
+  - **Learning Effective and Interpretable Semantic Models using Non-Negative Sparse Embedding**
+    - https://www.aclweb.org/anthology/C12-1118.pdf
+ 
 - ## *Knoweldge Distillation*
   - **Distilling the Knowledge in a Neural Network**
     - https://arxiv.org/pdf/1503.02531.pdf
@@ -15,18 +43,6 @@
     - https://arxiv.org/pdf/2002.10957.pdf
   - **ERNIE-Tiny : A Progressive Distillation Framework for Pretrained Transformer Compression**
     - https://arxiv.org/pdf/2106.02241.pdf
-
-- ## *Sentence Embedding*
-  - **Dual-View Distilled BERT for Sentence Embedding**
-    - https://arxiv.org/pdf/2104.08675.pdf 
-  - **SimCSE: Simple Contrastive Learning of Sentence Embeddings**
-    - https://arxiv.org/pdf/2104.08821.pdf  
-  - **SBERT-WK: A Sentence Embedding Method by Dissecting BERT-based Word Models** 
-    - https://arxiv.org/pdf/2002.06652.pdf
-  - **Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks**
-    - https://arxiv.org/pdf/1908.10084.pdf
-  - **Learning Effective and Interpretable Semantic Models using Non-Negative Sparse Embedding**
-    - https://www.aclweb.org/anthology/C12-1118.pdf
 
 - ## *Video Question Answering*
   - **DramaQA: Character-Centered Video Story Understanding with Hierarchical QA**
@@ -57,22 +73,6 @@
     - https://arxiv.org/pdf/1810.04805.pdf
   - **Unifying Vision-and-Language Tasks via Text Generation**
     - https://arxiv.org/pdf/2102.02779.pdf
-
-- ## *Response Generation*
-  - **Internet-Augmented Dialogue Generation**
-    - https://arxiv.org/pdf/2107.07566.pdf
-  - **Retrieve and Refine: Improved Sequence Generation Models For Dialogue**
-    - https://arxiv.org/pdf/1808.04776.pdf
-  - **Sequential Latent Knowledge Selection for Knowledge-Grounded Dialogue**
-    - https://arxiv.org/pdf/2002.07510.pdf 
-  - **Learning to Copy Coherent Knowledge for Response Generation**
-    - https://ojs.aaai.org/index.php/AAAI/article/view/17486
-  - **Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation**
-    - https://aclanthology.org/2020.acl-main.166.pdf  
-  - **Learning a Simple and Effective Model for Multi-turn Response Generation with Auxiliary Tasks**
-    - https://arxiv.org/pdf/2004.01972.pdf
-  - **Sequence to Backward and Forward Sequences: A Content-Introducing Approach to Generative Short-Text Conversation**
-    - https://aclanthology.org/C16-1316.pdf
 
 - ## *Continual Learning*
   - **Overcoming catastrophic forgetting in neural networks**
