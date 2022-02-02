@@ -52,12 +52,6 @@
   - **MMFT-BERT: Multimodal Fusion Transformer with BERT Encodings for Visual Question Answering**
     - https://arxiv.org/pdf/2010.14095.pdf
 
-- ## *eXpalinable Artificial Intelligence*
-  - **Understanding the difficulty of training transformers**
-    - https://arxiv.org/pdf/2004.08249.pdf
-  - **Do NLP Models Know Numbers? Probing Numeracy in Embeddings**
-    - https://arxiv.org/pdf/1909.07940.pdf
-
 - ## *Information Retrieval*
   - **Dense Passage Retrieval for Open-Domain Question Answering**
     - https://arxiv.org/pdf/2004.04906.pdf
@@ -73,7 +67,11 @@
     - https://arxiv.org/pdf/1810.04805.pdf
   - **Unifying Vision-and-Language Tasks via Text Generation**
     - https://arxiv.org/pdf/2102.02779.pdf
-
+  - **Understanding the difficulty of training transformers**
+    - https://arxiv.org/pdf/2004.08249.pdf
+  - **Do NLP Models Know Numbers? Probing Numeracy in Embeddings**
+    - https://arxiv.org/pdf/1909.07940.pdf
+    
 - ## *Continual Learning*
   - **Overcoming catastrophic forgetting in neural networks**
     - https://arxiv.org/pdf/1612.00796.pdf
