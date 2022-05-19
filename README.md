@@ -17,6 +17,8 @@
     - https://aclanthology.org/C16-1316.pdf
  
 - ## *Sentence Embedding*
+  - **Sentence-T5: Scalable Sentence Encoders from Pre-trained Text-to-Text Models**
+    - https://arxiv.org/abs/2108.08877 
   - **Dual-View Distilled BERT for Sentence Embedding**
     - https://arxiv.org/pdf/2104.08675.pdf 
   - **SimCSE: Simple Contrastive Learning of Sentence Embeddings**
