@@ -85,3 +85,5 @@
     - https://arxiv.org/pdf/2010.00910.pdf
 
 - ## *Text Summarization*
+  - **BRIO: Bringing Order to Abstractive Summarization**
+    - https://arxiv.org/abs/2203.16804
