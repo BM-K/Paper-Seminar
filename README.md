@@ -17,6 +17,8 @@
     - https://aclanthology.org/C16-1316.pdf
  
 - ## *Sentence Embedding*
+  - **DiffCSE: Difference-based Contrastive Learning for Sentence Embeddings**
+    - https://arxiv.org/abs/2204.10298
   - **Sentence-T5: Scalable Sentence Encoders from Pre-trained Text-to-Text Models**
     - https://arxiv.org/abs/2108.08877 
   - **Dual-View Distilled BERT for Sentence Embedding**
